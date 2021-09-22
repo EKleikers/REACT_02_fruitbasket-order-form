@@ -1,0 +1,11 @@
+.error_message {
+    color: red;
+    margin-bottom: -20px;
+    font-size: 16px;
+}
+
+input[type="checkbox"]{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
